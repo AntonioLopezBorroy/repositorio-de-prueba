@@ -1,6 +1,6 @@
 <?php
 
 	echo "Probando Git con PHP";
-	echo "Modificando...";
+	echo "Modificando... sugunda modificación";
 
 ?>
